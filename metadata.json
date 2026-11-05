@@ -1,0 +1,6 @@
+{
+  "name": "Campus Wi-Fi Mapping",
+  "description": "Interactive Wi-Fi signal mapping and heatmap interpolation system demonstrating coverage in VIT-AP Central Block.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
